@@ -19,10 +19,10 @@ const About = () => {
               LET ME <span className="yellow"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Hi, my name is <span className="yellow">Atharva Narkhede</span> and I'm from <span className="yellow">Pune, MH, India</span>.
+              Hi, our name is <span className="yellow">Tashu Paliwal, Jignyasa Lunkad, Taniksha, Pritam, Hiral and Pushkal</span> and We are from <span className="yellow">Symbiosis Institute of Technology, Nagpur</span>.
               <br />
               <br />
-              I am a final year B.Tech CSE student at SRM University, graduating in 2025.
+              We are third year B.Tech CSE student graduating in 2026.
               <br />
               <br />
               As a <b className="yellow">Full-Stack Developer</b>, I enjoy tackling new challenges and continuously expanding my skill set. I am proficient in 
